@@ -8,6 +8,8 @@ Highly qualified specialists are always in demand, especially in the IT-sphere. 
 
 We do not have many internships here, nevertheless, students and graduates face the problem of not being aware of what internships are happening/will be soon. Let this repository be a little help from me for anyone looking for an internship, cheers 😉
 
+---Test TestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTest
+---Test TestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTest
 > Please click the `watch` button on the top right to be notified of all updates. 
 
 ## Kazakhstani internship opportunities
